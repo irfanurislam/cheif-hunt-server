@@ -5,10 +5,25 @@
     "years_of_experience": 10,
     "num_recipes": 4,
     "likes": 1500,
-    "picture_url": "https://example.com/chef1.jpg",
+    "description" : "Giuseppe Rossi is a seasoned Italian chef with over 20 years of experience. He has created over 30 delicious Italian recipes that have become favorites among his fans. Giuseppe is known for his classic Italian cooking techniques and his use of fresh, high-quality ingredients. Some of his most popular dishes include spaghetti alle vongole, lasagna, and tiramisu.",
+    "picture_url": "https://i.ibb.co/Ns3J81C/R.jpg",
     "recipes": [
       {
         "recipe_name": "Spaghetti alla carbonara",
+        "photo" :"https://i.ibb.co/ysyZHKL/wxswxy1511452625.jpg",
+        "ingredients": [
+          "spaghetti",
+          "eggs",
+          "pancetta",
+          "pecorino cheese",
+          "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti until al dente. 2. Fry pancetta in a pan. 3. Beat eggs and cheese together. 4. Mix spaghetti with pancetta and pour egg mixture over it. 5. Serve with black pepper.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Spaghetti alla carbonara",
+        "photo" :"https://i.ibb.co/ysyZHKL/wxswxy1511452625.jpg",
         "ingredients": [
           "spaghetti",
           "eggs",
@@ -21,6 +36,7 @@
       },
       {
         "recipe_name": "Pizza Margherita",
+        "photo" :"https://i.ibb.co/ysyZHKL/wxswxy1511452625.jpg",
         "ingredients": [
           "flour",
           "yeast",
@@ -33,6 +49,7 @@
       },
       {
         "recipe_name": "Lasagna alla bolognese",
+        "photo" :"https://i.ibb.co/ysyZHKL/wxswxy1511452625.jpg",
         "ingredients": [
           "lasagna noodles",
           "beef ragù",
@@ -45,6 +62,7 @@
       },
       {
         "recipe_name": "Tiramisu",
+        "photo" :"https://i.ibb.co/ysyZHKL/wxswxy1511452625.jpg",
         "ingredients": [
           "ladyfingers",
           "espresso",
@@ -63,7 +81,8 @@
     "years_of_experience": 8,
     "num_recipes": 4,
     "likes": 1300,
-    "picture_url": "https://example.com/chef2.jpg",
+    "description" : "Sofia Bianchi is a young and talented Italian chef with a passion for creating unique and innovative dishes. She has been cooking for 7 years and has already created over 15 Italian recipes that have gained her a loyal following. Sofia's cooking style is modern and creative, and she loves to experiment with different flavor combinations. Some of her most popular dishes include risotto with truffles, gnocchi alla sorrentina, and panna cotta with raspberry coulis.",
+    "picture_url": "https://i.ibb.co/Ns3J81C/R.jpg",
     "recipes": [
       {
         "recipe_name": "Risotto alla milanese",
@@ -76,6 +95,18 @@
         ],
         "cooking_method": "1. Heat chicken broth in a pot. 2. Toast arborio rice in a pan. 3. Add saffron and a ladle of broth to the rice. 4. Continue adding broth and stirring until the rice is cooked. 5. Stir in parmesan cheese and butter.",
         "rating": 4.3
+      },
+      {
+        "recipe_name": "Saltimbocca alla romana",
+        "ingredients": [
+          "veal escalopes",
+          "prosciutto",
+          "sage leaves",
+          "white wine",
+          "butter"
+        ],
+        "cooking_method": "1. Place a slice of prosciutto and a sage leaf on each veal escalope. 2. Secure with a toothpick. 3. Cook the escalopes in a pan with butter. 4. Add white wine and let it evaporate. 5. Serve hot. ",
+        "rating": 4.7
       },
       {
         "recipe_name": "Saltimbocca alla romana",
@@ -121,7 +152,8 @@
     "years_of_experience": 12,
     "num_recipes": 4,
     "likes": 2000,
-    "picture_url": "https://example.com/chef3.jpg",
+    "description" : "Marco Russo is an Italian chef with 12 years of experience. He is known for his traditional Italian cooking style and his attention to detail. Marco has created over 20 Italian recipes that have become popular among his fans. Some of his most popular dishes include osso buco, spaghetti alla carbonara, and panna cotta..",
+    "picture_url": "https://i.ibb.co/Ns3J81C/R.jpg",
     "recipes": [
       {
         "recipe_name": "Ravioli di ricotta",
@@ -134,6 +166,18 @@
         ],
         "cooking_method": "1. Mix ricotta cheese, spinach, nutmeg, and parmesan cheese together. 2. Roll out pasta dough and cut into squares. 3. Spoon filling onto each square and fold into a triangle. 4. Boil ravioli until they float. 5. Serve with sauce of your choice.",
         "rating": 4.6
+      },
+      {
+        "recipe_name": "Osso buco alla milanese",
+        "ingredients": [
+          "veal shanks",
+          "onions",
+          "carrots",
+          "celery",
+          "tomato sauce"
+        ],
+        "cooking_method": "1. Brown veal shanks in a pot. 2. Add onions, carrots, and celery. 3. Add tomato sauce and simmer for several hours. 4. Serve with gremolata and risotto alla milanese. ",
+        "rating": 4.8
       },
       {
         "recipe_name": "Osso buco alla milanese",
@@ -170,12 +214,25 @@
   },
   {
     "id": "4",
-    "chef_name": "Lucia Rizzo",
+    "chef_name": "Maria Romano",
     "years_of_experience": 8,
     "num_recipes": 5,
     "likes": 1500,
-    "picture_url": "https://example.com/chef4.jpg",
+    "description" : "Maria Romano is a skilled Italian chef with 15 years of experience. She specializes in creating classic Italian dishes with a modern twist. Maria has created over 25 Italian recipes that have become fan favorites. Some of her most popular dishes include pesto alla genovese, pasta al pomodoro, and tiramisu with amaretto.",
+    "picture_url": "https://i.ibb.co/Ns3J81C/R.jpg",
     "recipes": [
+      {
+        "recipe_name": "Spaghetti alla carbonara",
+        "ingredients": [
+          "spaghetti",
+          "pancetta",
+          "egg yolks",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti until al dente. 2. Sauté pancetta in a pan. 3. Whisk egg yolks and parmesan cheese together. 4. Add cooked spaghetti and pancetta to the egg mixture. 5. Serve with black pepper.",
+        "rating": 4.7
+      },
       {
         "recipe_name": "Spaghetti alla carbonara",
         "ingredients": [
@@ -234,11 +291,12 @@
   },
   {
     "id": "5",
-    "chef_name": "Maria Rossi",
+    "chef_name": "Luca De Luca",
     "years_of_experience": 12,
     "num_recipes": 8,
     "likes": 2000,
-    "picture_url": "https://example.com/chef5.jpg",
+    "description" : " Luca De Luca is a passionate Italian chef with a love for creating hearty and flavorful Italian dishes. He has been cooking for 8 years and has created over 10 Italian recipes that have gained a following. Luca's cooking style is rustic and traditional, and he uses fresh, seasonal ingredients. Some of his most popular dishes include polenta with gorgonzola, spaghetti aglio e olio, and bruschetta with tomato and basil.",
+    "picture_url": "https://i.ibb.co/Ns3J81C/R.jpg",
     "recipes": [
       {
         "recipe_name": "Gnocchi alla sorrentina",
@@ -251,6 +309,18 @@
         ],
         "cooking_method": "1. Boil potatoes and mash them. 2. Mix mashed potatoes with flour and egg. 3. Form gnocchi and cook in boiling water. 4. Place gnocchi in a baking dish. 5. Cover with tomato sauce and mozzarella cheese. 6. Bake in the oven.",
         "rating": 4.7
+      },
+      {
+        "recipe_name": "Osso buco alla milanese",
+        "ingredients": [
+          "veal shanks",
+          "onion",
+          "carrot",
+          "celery",
+          "white wine"
+        ],
+        "cooking_method": "1. Brown veal shanks in a pan. 2. Remove shanks and sauté onion, carrot, and celery in the same pan. 3. Add white wine and let it evaporate. 4. Return shanks to the pan and add chicken broth. 5. Simmer until meat is tender. ",
+        "rating": 4.9
       },
       {
         "recipe_name": "Osso buco alla milanese",
@@ -320,7 +390,8 @@
     "years_of_experience": 10,
     "num_recipes": 12,
     "likes": 3500,
-    "picture_url": "https://example.com/chef6.jpg",
+    "description" : "Francesca Rossi is an experienced Italian chef with 10 years of experience. She is known for her ability to create delicious and authentic Italian dishes with ease. Francesca has created over 12 Italian recipes that have become popular among her fans. Some of her most popular dishes include spaghetti carbonara, risotto alla milanese, and bistecca alla fiorentina..",
+    "picture_url": "https://i.ibb.co/Ns3J81C/R.jpg",
     "recipes": [
       {
         "recipe_name": "Spaghetti carbonara",
