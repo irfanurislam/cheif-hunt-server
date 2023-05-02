@@ -1,0 +1,393 @@
+[
+  {
+    "id": "1",
+    "chef_name": "Giovanni Rossi",
+    "years_of_experience": 10,
+    "num_recipes": 4,
+    "likes": 1500,
+    "picture_url": "https://example.com/chef1.jpg",
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti alla carbonara",
+        "ingredients": [
+          "spaghetti",
+          "eggs",
+          "pancetta",
+          "pecorino cheese",
+          "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti until al dente. 2. Fry pancetta in a pan. 3. Beat eggs and cheese together. 4. Mix spaghetti with pancetta and pour egg mixture over it. 5. Serve with black pepper.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Pizza Margherita",
+        "ingredients": [
+          "flour",
+          "yeast",
+          "tomato sauce",
+          "mozzarella cheese",
+          "basil"
+        ],
+        "cooking_method": "1. Mix flour and yeast together. 2. Knead dough and let it rise. 3. Roll out dough and spread tomato sauce over it. 4. Add mozzarella cheese and basil on top. 5. Bake in the oven. ",
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "Lasagna alla bolognese",
+        "ingredients": [
+          "lasagna noodles",
+          "beef ragù",
+          "béchamel sauce",
+          "parmesan cheese",
+          "nutmeg"
+        ],
+        "cooking_method": "1. Cook lasagna noodles until al dente. 2. Layer lasagna noodles, ragù, béchamel sauce, and parmesan cheese in a baking dish. 3. Repeat until all ingredients are used up. 4. Bake in the oven. 5. Sprinkle nutmeg on top. ",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Tiramisu",
+        "ingredients": [
+          "ladyfingers",
+          "espresso",
+          "mascarpone cheese",
+          "eggs",
+          "cocoa powder"
+        ],
+        "cooking_method": "1. Dip ladyfingers in espresso. 2. Mix mascarpone cheese and eggs together. 3. Layer ladyfingers and cheese mixture in a baking dish. 4. Chill in the refrigerator. 5. Sprinkle cocoa powder on top. ",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "chef_name": "Sofia Bianchi",
+    "years_of_experience": 8,
+    "num_recipes": 4,
+    "likes": 1300,
+    "picture_url": "https://example.com/chef2.jpg",
+    "recipes": [
+      {
+        "recipe_name": "Risotto alla milanese",
+        "ingredients": [
+          "arborio rice",
+          "saffron",
+          "chicken broth",
+          "parmesan cheese",
+          "butter"
+        ],
+        "cooking_method": "1. Heat chicken broth in a pot. 2. Toast arborio rice in a pan. 3. Add saffron and a ladle of broth to the rice. 4. Continue adding broth and stirring until the rice is cooked. 5. Stir in parmesan cheese and butter.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Saltimbocca alla romana",
+        "ingredients": [
+          "veal escalopes",
+          "prosciutto",
+          "sage leaves",
+          "white wine",
+          "butter"
+        ],
+        "cooking_method": "1. Place a slice of prosciutto and a sage leaf on each veal escalope. 2. Secure with a toothpick. 3. Cook the escalopes in a pan with butter. 4. Add white wine and let it evaporate. 5. Serve hot. ",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Gnocchi alla sorrentina",
+        "ingredients": [
+          "potatoes",
+          "flour",
+          "mozzarella cheese",
+          "tomato sauce",
+          "basil"
+        ],
+        "cooking_method": "1. Boil potatoes until soft. 2. Mash potatoes and add flour to make dough. 3. Roll dough into small balls and press with a fork. 4. Boil gnocchi until they float. 5. Layer gnocchi, tomato sauce, and mozzarella cheese in a baking dish. 6. Bake in the oven. 7. Sprinkle basil on top.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Panna cotta",
+        "ingredients": [
+          "cream",
+          "sugar",
+          "gelatin",
+          "vanilla extract",
+          "fruit sauce"
+        ],
+        "cooking_method": "1. Heat cream, sugar, and vanilla extract in a pot. 2. Add gelatin and stir until dissolved. 3. Pour mixture into ramekins and chill in the refrigerator. 4. Serve with fruit sauce.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "chef_name": "Marco Russo",
+    "years_of_experience": 12,
+    "num_recipes": 4,
+    "likes": 2000,
+    "picture_url": "https://example.com/chef3.jpg",
+    "recipes": [
+      {
+        "recipe_name": "Ravioli di ricotta",
+        "ingredients": [
+          "ricotta cheese",
+          "spinach",
+          "nutmeg",
+          "parmesan cheese",
+          "pasta dough"
+        ],
+        "cooking_method": "1. Mix ricotta cheese, spinach, nutmeg, and parmesan cheese together. 2. Roll out pasta dough and cut into squares. 3. Spoon filling onto each square and fold into a triangle. 4. Boil ravioli until they float. 5. Serve with sauce of your choice.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Osso buco alla milanese",
+        "ingredients": [
+          "veal shanks",
+          "onions",
+          "carrots",
+          "celery",
+          "tomato sauce"
+        ],
+        "cooking_method": "1. Brown veal shanks in a pot. 2. Add onions, carrots, and celery. 3. Add tomato sauce and simmer for several hours. 4. Serve with gremolata and risotto alla milanese. ",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Polenta e funghi",
+        "ingredients": ["polenta", "mushrooms", "butter", "garlic", "thyme"],
+        "cooking_method": "1. Cook polenta according to package instructions. 2. Sauté mushrooms in butter with garlic and thyme. 3. Serve mushrooms on top of polenta. ",
+        "rating": 4.3
+      },
+
+      {
+        "recipe_name": "Tiramisu",
+        "ingredients": [
+          "ladyfingers",
+          "espresso coffee",
+          "mascarpone cheese",
+          "eggs",
+          "cocoa powder"
+        ],
+        "cooking_method": "1. Dip ladyfingers in espresso coffee. 2. Mix mascarpone cheese, eggs, and sugar together. 3. Layer ladyfingers and mascarpone mixture in a dish. 4. Chill in the refrigerator. 5. Sprinkle cocoa powder on top.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "chef_name": "Lucia Rizzo",
+    "years_of_experience": 8,
+    "num_recipes": 5,
+    "likes": 1500,
+    "picture_url": "https://example.com/chef4.jpg",
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti alla carbonara",
+        "ingredients": [
+          "spaghetti",
+          "pancetta",
+          "egg yolks",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti until al dente. 2. Sauté pancetta in a pan. 3. Whisk egg yolks and parmesan cheese together. 4. Add cooked spaghetti and pancetta to the egg mixture. 5. Serve with black pepper.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Saltimbocca alla romana",
+        "ingredients": [
+          "veal escalopes",
+          "prosciutto",
+          "sage leaves",
+          "white wine",
+          "butter"
+        ],
+        "cooking_method": "1. Place a slice of prosciutto and a sage leaf on each veal escalope. 2. Secure with a toothpick. 3. Cook the escalopes in a pan with butter. 4. Add white wine and let it evaporate. 5. Serve hot. ",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Bruschetta",
+        "ingredients": ["bread", "tomatoes", "garlic", "basil", "olive oil"],
+        "cooking_method": "1. Toast bread. 2. Rub garlic on the bread. 3. Dice tomatoes and mix with basil and olive oil. 4. Spoon tomato mixture on top of bread. ",
+        "rating": 4.4
+      },
+      {
+        "recipe_name": "Risotto ai funghi",
+        "ingredients": [
+          "arborio rice",
+          "mushrooms",
+          "onion",
+          "white wine",
+          "parmesan cheese"
+        ],
+        "cooking_method": "1. Sauté mushrooms and onions in a pan. 2. Add arborio rice and stir. 3. Add white wine and stir until evaporated. 4. Gradually add chicken broth and stir until rice is cooked. 5. Stir in parmesan cheese.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Panna cotta",
+        "ingredients": [
+          "cream",
+          "sugar",
+          "gelatin",
+          "vanilla extract",
+          "fruit sauce"
+        ],
+        "cooking_method": "1. Heat cream, sugar, and vanilla extract in a pot. 2. Add gelatin and stir until dissolved. 3. Pour mixture into ramekins and chill in the refrigerator. 4. Serve with fruit sauce.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "chef_name": "Maria Rossi",
+    "years_of_experience": 12,
+    "num_recipes": 8,
+    "likes": 2000,
+    "picture_url": "https://example.com/chef5.jpg",
+    "recipes": [
+      {
+        "recipe_name": "Gnocchi alla sorrentina",
+        "ingredients": [
+          "potatoes",
+          "flour",
+          "egg",
+          "tomato sauce",
+          "mozzarella cheese"
+        ],
+        "cooking_method": "1. Boil potatoes and mash them. 2. Mix mashed potatoes with flour and egg. 3. Form gnocchi and cook in boiling water. 4. Place gnocchi in a baking dish. 5. Cover with tomato sauce and mozzarella cheese. 6. Bake in the oven.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Osso buco alla milanese",
+        "ingredients": [
+          "veal shanks",
+          "onion",
+          "carrot",
+          "celery",
+          "white wine"
+        ],
+        "cooking_method": "1. Brown veal shanks in a pan. 2. Remove shanks and sauté onion, carrot, and celery in the same pan. 3. Add white wine and let it evaporate. 4. Return shanks to the pan and add chicken broth. 5. Simmer until meat is tender. ",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Pesto alla genovese",
+        "ingredients": [
+          "basil",
+          "pine nuts",
+          "garlic",
+          "parmesan cheese",
+          "olive oil"
+        ],
+        "cooking_method": "1. Blend basil, pine nuts, garlic, and parmesan cheese in a food processor. 2. Gradually add olive oil until the mixture is smooth. 3. Serve with pasta.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Cannoli",
+        "ingredients": [
+          "ricotta cheese",
+          "sugar",
+          "cinnamon",
+          "candied fruit",
+          "cannoli shells"
+        ],
+        "cooking_method": "1. Mix ricotta cheese, sugar, and cinnamon together. 2. Add candied fruit. 3. Fill cannoli shells with the mixture. ",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Lasagne al forno",
+        "ingredients": [
+          "lasagna noodles",
+          "ground beef",
+          "tomato sauce",
+          "bechamel sauce",
+          "mozzarella cheese"
+        ],
+        "cooking_method": "1. Cook lasagna noodles until al dente. 2. Brown ground beef in a pan. 3. Add tomato sauce and simmer. 4. Make bechamel sauce. 5. Layer noodles, meat sauce, bechamel sauce, and mozzarella cheese in a baking dish. 6. Bake in the oven.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Focaccia",
+        "ingredients": ["flour", "yeast", "water", "salt", "olive oil"],
+        "cooking_method": "1. Mix flour, yeast, water, and salt together. 2. Knead the dough and let it rise. 3. Flatten the dough and place on a baking sheet. 4. Brush with olive oil and sprinkle with salt. 5. Bake in the oven.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Polenta",
+        "ingredients": ["cornmeal", "water", "butter", "parmesan cheese"],
+        "cooking_method": "1. Boil water in a pot. 2. Slowly add cornmeal and stir constantly. 3. Lower heat and cook until polenta is thick. 4. Add butter and parmesan cheese. 5. Serve hot.",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Francesca Rossi",
+    "years_of_experience": 10,
+    "num_recipes": 12,
+    "likes": 3500,
+    "picture_url": "https://example.com/chef6.jpg",
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti carbonara",
+        "ingredients": [
+          "spaghetti",
+          "pancetta",
+          "egg yolk",
+          "pecorino romano cheese",
+          "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti until al dente. 2. Brown pancetta in a pan. 3. Beat egg yolk and pecorino romano cheese together. 4. Drain spaghetti and add to the pan with pancetta. 5. Turn off heat and add egg yolk mixture. 6. Stir well and add black pepper. ",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Risotto alla milanese",
+        "ingredients": [
+          "arborio rice",
+          "onion",
+          "white wine",
+          "saffron",
+          "parmesan cheese"
+        ],
+        "cooking_method": "1. Sauté onion in a pan. 2. Add arborio rice and stir until rice is toasted. 3. Add white wine and let it evaporate. 4. Add hot broth to the rice gradually while stirring. 5. Add saffron. 6. When rice is cooked, turn off heat and add parmesan cheese. ",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Bistecca alla fiorentina",
+        "ingredients": [
+          "T-bone steak",
+          "olive oil",
+          "rosemary",
+          "salt",
+          "pepper"
+        ],
+        "cooking_method": "1. Season T-bone steak with salt, pepper, and rosemary. 2. Brush with olive oil. 3. Grill on a hot grill until cooked to desired doneness. ",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Tiramisu",
+        "ingredients": [
+          "mascarpone cheese",
+          "eggs",
+          "sugar",
+          "ladyfingers",
+          "espresso"
+        ],
+        "cooking_method": "1. Beat egg yolks and sugar together. 2. Add mascarpone cheese and mix well. 3. Beat egg whites until stiff peaks form. 4. Fold egg whites into the cheese mixture. 5. Dip ladyfingers in espresso and place in a baking dish. 6. Cover with cheese mixture. 7. Chill in the fridge.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Bruschetta",
+        "ingredients": ["baguette", "tomatoes", "garlic", "basil", "olive oil"],
+        "cooking_method": "1. Toast baguette slices. 2. Rub garlic on the slices. 3. Top with chopped tomatoes and basil. 4. Drizzle with olive oil. ",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Panna cotta",
+        "ingredients": [
+          "cream",
+          "sugar",
+          "gelatin",
+          "vanilla extract",
+          "raspberries"
+        ],
+        "cooking_method": "1. Heat cream and sugar in a saucepan. 2. Add gelatin and stir until dissolved. 3. Remove from heat and add vanilla extract. 4. Pour mixture into ramekins and chill in the fridge until set. 5. Serve with fresh raspberries. ",
+        "rating": 4.7
+      }
+    ]
+  }
+]
