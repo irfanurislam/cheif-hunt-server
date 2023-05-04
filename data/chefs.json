@@ -6,11 +6,11 @@
     "num_recipes": 4,
     "likes": 1500,
     "description" : "Giuseppe Rossi is a seasoned Italian chef with over 20 years of experience. He has created over 30 delicious Italian recipes that have become favorites among his fans. Giuseppe is known for his classic Italian cooking techniques and his use of fresh, high-quality ingredients. Some of his most popular dishes include spaghetti alle vongole, lasagna, and tiramisu.",
-    "picture_url": "https://i.ibb.co/Ns3J81C/R.jpg",
+    "picture_url": "https://i.ibb.co/Pg8pz2t/louis-hansel-v3-Ol-BE6-fh-U-unsplash.jpg",
     "recipes": [
       {
-        "recipe_name": "Spaghetti alla carbonara",
-        "photo" :"https://i.ibb.co/ysyZHKL/wxswxy1511452625.jpg",
+        "recipe_name": "Lasagne",
+        "photo" :"https://i.ibb.co/WNhvgt7/eaters-collective-uh-Jfa-J6c9f-Y-unsplash.jpg",
         "ingredients": [
           "spaghetti",
           "eggs",
@@ -23,7 +23,7 @@
       },
       {
         "recipe_name": "Spaghetti alla carbonara",
-        "photo" :"https://i.ibb.co/b58C66j/ustsqw1468250014.jpg",
+        "photo" :"https://i.ibb.co/R2GdNwB/nordwood-themes-h1-CQFYfo5lk-unsplash.jpg",
         "ingredients": [
           "spaghetti",
           "eggs",
@@ -36,7 +36,7 @@
       },
       {
         "recipe_name": "Pizza Margherita",
-        "photo" :"https://i.ibb.co/s1DXk32/rvxxuy1468312893.jpg",
+        "photo" :"https://i.ibb.co/JqGsXTY/calum-lewis-r-Pkg-YDh2bmo-unsplash.jpg",
         "ingredients": [
           "flour",
           "yeast",
@@ -49,7 +49,7 @@
       },
       {
         "recipe_name": "Lasagna alla bolognese",
-        "photo" :"https://i.ibb.co/94pV4pS/0jv5gx1661040802.jpg",
+        "photo" :"https://i.ibb.co/zZhFYJZ/mgg-vitchakorn-PLy-Jq-EJVre0-unsplash.jpg",
         "ingredients": [
           "lasagna noodles",
           "beef ragù",
@@ -62,7 +62,7 @@
       },
       {
         "recipe_name": "Tiramisu",
-        "photo" :"https://i.ibb.co/Lkg8WQv/qvrwpt1511181864.jpg",
+        "photo" :"https://i.ibb.co/9rJN1Kk/lavi-perchik-w-S-5-JFH8-o-U-unsplash.jpg",
         "ingredients": [
           "ladyfingers",
           "espresso",
@@ -86,6 +86,7 @@
     "recipes": [
       {
         "recipe_name": "Risotto alla milanese",
+        "photo" :"https://i.ibb.co/HNYxc3M/cala-w6ft-Fb-PCs9-I-unsplash.jpg",
         "ingredients": [
           "arborio rice",
           "saffron",
@@ -98,6 +99,7 @@
       },
       {
         "recipe_name": "Saltimbocca alla romana",
+        "photo" :"https://i.ibb.co/9rJN1Kk/lavi-perchik-w-S-5-JFH8-o-U-unsplash.jpg",
         "ingredients": [
           "veal escalopes",
           "prosciutto",
@@ -110,6 +112,7 @@
       },
       {
         "recipe_name": "Saltimbocca alla romana",
+        "photo" :"https://i.ibb.co/zZhFYJZ/mgg-vitchakorn-PLy-Jq-EJVre0-unsplash.jpg",
         "ingredients": [
           "veal escalopes",
           "prosciutto",
@@ -122,6 +125,7 @@
       },
       {
         "recipe_name": "Gnocchi alla sorrentina",
+        "photo" :"https://i.ibb.co/chSXws6/jimmy-dean-Ianq-I4-W4fco-unsplash.jpg",
         "ingredients": [
           "potatoes",
           "flour",
@@ -134,6 +138,7 @@
       },
       {
         "recipe_name": "Panna cotta",
+        "photo" :"https://i.ibb.co/WNhvgt7/eaters-collective-uh-Jfa-J6c9f-Y-unsplash.jpg",
         "ingredients": [
           "cream",
           "sugar",
@@ -157,6 +162,7 @@
     "recipes": [
       {
         "recipe_name": "Ravioli di ricotta",
+        "photo" :"https://i.ibb.co/bzWH5DR/eadwyne-6-MZKhxxkfng-unsplash.jpg",
         "ingredients": [
           "ricotta cheese",
           "spinach",
@@ -169,6 +175,7 @@
       },
       {
         "recipe_name": "Osso buco alla milanese",
+        "photo" :"https://i.ibb.co/1nVKFpN/mariana-medvedeva-i-Nw-CO9yc-Blc-unsplash.jpg",
         "ingredients": [
           "veal shanks",
           "onions",
@@ -180,7 +187,8 @@
         "rating": 4.8
       },
       {
-        "recipe_name": "Osso buco alla milanese",
+        "recipe_name": "alla milanese",
+        "photo" :"https://i.ibb.co/WNhvgt7/eaters-collective-uh-Jfa-J6c9f-Y-unsplash.jpg",
         "ingredients": [
           "veal shanks",
           "onions",
@@ -193,6 +201,7 @@
       },
       {
         "recipe_name": "Polenta e funghi",
+        "photo" :"https://i.ibb.co/R2GdNwB/nordwood-themes-h1-CQFYfo5lk-unsplash.jpg",
         "ingredients": ["polenta", "mushrooms", "butter", "garlic", "thyme"],
         "cooking_method": "1. Cook polenta according to package instructions. 2. Sauté mushrooms in butter with garlic and thyme. 3. Serve mushrooms on top of polenta. ",
         "rating": 4.3
@@ -200,6 +209,7 @@
 
       {
         "recipe_name": "Tiramisu",
+        "photo" :"https://i.ibb.co/xGj1WfB/emiliano-vittoriosi-Vaod9m-YNm-RM-unsplash.jpg",
         "ingredients": [
           "ladyfingers",
           "espresso coffee",
@@ -223,6 +233,7 @@
     "recipes": [
       {
         "recipe_name": "Spaghetti alla carbonara",
+        "photo" :"https://i.ibb.co/bzWH5DR/eadwyne-6-MZKhxxkfng-unsplash.jpg",
         "ingredients": [
           "spaghetti",
           "pancetta",
@@ -234,7 +245,8 @@
         "rating": 4.7
       },
       {
-        "recipe_name": "Spaghetti alla carbonara",
+        "recipe_name": "lasagne",
+        "photo" :"https://i.ibb.co/8jVq3B3/tolga-deniz-aran-b1-Obq-XPa3a-A-unsplash.jpg",
         "ingredients": [
           "spaghetti",
           "pancetta",
@@ -247,6 +259,7 @@
       },
       {
         "recipe_name": "Saltimbocca alla romana",
+        "photo" :"https://i.ibb.co/HNYxc3M/cala-w6ft-Fb-PCs9-I-unsplash.jpg",
         "ingredients": [
           "veal escalopes",
           "prosciutto",
@@ -259,12 +272,14 @@
       },
       {
         "recipe_name": "Bruschetta",
+        "photo" :"https://i.ibb.co/94pV4pS/0jv5gx1661040802.jpg",
         "ingredients": ["bread", "tomatoes", "garlic", "basil", "olive oil"],
         "cooking_method": "1. Toast bread. 2. Rub garlic on the bread. 3. Dice tomatoes and mix with basil and olive oil. 4. Spoon tomato mixture on top of bread. ",
         "rating": 4.4
       },
       {
         "recipe_name": "Risotto ai funghi",
+        "photo" :"https://i.ibb.co/94pV4pS/0jv5gx1661040802.jpg",
         "ingredients": [
           "arborio rice",
           "mushrooms",
@@ -277,6 +292,7 @@
       },
       {
         "recipe_name": "Panna cotta",
+        "photo" :"https://i.ibb.co/9rJN1Kk/lavi-perchik-w-S-5-JFH8-o-U-unsplash.jpg",
         "ingredients": [
           "cream",
           "sugar",
@@ -296,10 +312,11 @@
     "num_recipes": 8,
     "likes": 2000,
     "description" : " Luca De Luca is a passionate Italian chef with a love for creating hearty and flavorful Italian dishes. He has been cooking for 8 years and has created over 10 Italian recipes that have gained a following. Luca's cooking style is rustic and traditional, and he uses fresh, seasonal ingredients. Some of his most popular dishes include polenta with gorgonzola, spaghetti aglio e olio, and bruschetta with tomato and basil.",
-    "picture_url": "https://i.ibb.co/dc357tx/redcharlie-redcharlie1-t-7-KEq9-M0b0-unsplash.jpg",
+    "picture_url": "https://i.ibb.co/L0Xyfzr/mario-ci-F10n-RBW7o-unsplash.jpg",
     "recipes": [
       {
         "recipe_name": "Gnocchi alla sorrentina",
+        "photo" :"https://i.ibb.co/zZhFYJZ/mgg-vitchakorn-PLy-Jq-EJVre0-unsplash.jpg",
         "ingredients": [
           "potatoes",
           "flour",
@@ -312,6 +329,7 @@
       },
       {
         "recipe_name": "Osso buco alla milanese",
+        "photo" :"https://i.ibb.co/9rJN1Kk/lavi-perchik-w-S-5-JFH8-o-U-unsplash.jpg",
         "ingredients": [
           "veal shanks",
           "onion",
@@ -323,7 +341,8 @@
         "rating": 4.9
       },
       {
-        "recipe_name": "Osso buco alla milanese",
+        "recipe_name": "Pilchard puttanesca",
+        "photo" :"https://i.ibb.co/chSXws6/jimmy-dean-Ianq-I4-W4fco-unsplash.jpg",
         "ingredients": [
           "veal shanks",
           "onion",
@@ -336,6 +355,7 @@
       },
       {
         "recipe_name": "Pesto alla genovese",
+        "photo" :"https://i.ibb.co/94pV4pS/0jv5gx1661040802.jpg",
         "ingredients": [
           "basil",
           "pine nuts",
@@ -348,6 +368,7 @@
       },
       {
         "recipe_name": "Cannoli",
+        "photo" :"https://i.ibb.co/JqGsXTY/calum-lewis-r-Pkg-YDh2bmo-unsplash.jpg",
         "ingredients": [
           "ricotta cheese",
           "sugar",
@@ -360,6 +381,7 @@
       },
       {
         "recipe_name": "Lasagne al forno",
+        "photo" :"https://i.ibb.co/94pV4pS/0jv5gx1661040802.jpg",
         "ingredients": [
           "lasagna noodles",
           "ground beef",
@@ -372,12 +394,14 @@
       },
       {
         "recipe_name": "Focaccia",
+        "photo" :"https://i.ibb.co/NpqcQpX/food-photographer-jennifer-pallian-8p-Ujh-Bm4c-Lw-unsplash.jpg",
         "ingredients": ["flour", "yeast", "water", "salt", "olive oil"],
         "cooking_method": "1. Mix flour, yeast, water, and salt together. 2. Knead the dough and let it rise. 3. Flatten the dough and place on a baking sheet. 4. Brush with olive oil and sprinkle with salt. 5. Bake in the oven.",
         "rating": 4.5
       },
       {
         "recipe_name": "Polenta",
+        "photo" :"https://i.ibb.co/R2GdNwB/nordwood-themes-h1-CQFYfo5lk-unsplash.jpg",
         "ingredients": ["cornmeal", "water", "butter", "parmesan cheese"],
         "cooking_method": "1. Boil water in a pot. 2. Slowly add cornmeal and stir constantly. 3. Lower heat and cook until polenta is thick. 4. Add butter and parmesan cheese. 5. Serve hot.",
         "rating": 4.4
@@ -391,10 +415,11 @@
     "num_recipes": 12,
     "likes": 3500,
     "description" : "Francesca Rossi is an experienced Italian chef with 10 years of experience. She is known for her ability to create delicious and authentic Italian dishes with ease. Francesca has created over 12 Italian recipes that have become popular among her fans. Some of her most popular dishes include spaghetti carbonara, risotto alla milanese, and bistecca alla fiorentina..",
-    "picture_url": "https://i.ibb.co/NScYCfF/lasse-bergqvist-TYj7ey6xn9-M-unsplash.jpg",
+    "picture_url": "https://i.ibb.co/dc357tx/redcharlie-redcharlie1-t-7-KEq9-M0b0-unsplash.jpg",
     "recipes": [
       {
-        "recipe_name": "Spaghetti carbonara",
+        "recipe_name": "Fettucine alfredo",
+        "photo" :"https://i.ibb.co/sHWhQHY/wtsvxx1511296896.jpg",
         "ingredients": [
           "spaghetti",
           "pancetta",
@@ -407,6 +432,7 @@
       },
       {
         "recipe_name": "Risotto alla milanese",
+        "photo" :"https://i.ibb.co/94pV4pS/0jv5gx1661040802.jpg",
         "ingredients": [
           "arborio rice",
           "onion",
@@ -419,6 +445,7 @@
       },
       {
         "recipe_name": "Bistecca alla fiorentina",
+        "photo" :"https://i.ibb.co/nDnhSWY/xxrxux1503070723.jpg",
         "ingredients": [
           "T-bone steak",
           "olive oil",
@@ -431,6 +458,7 @@
       },
       {
         "recipe_name": "Tiramisu",
+        "photo" :"https://i.ibb.co/ysyZHKL/wxswxy1511452625.jpg",
         "ingredients": [
           "mascarpone cheese",
           "eggs",
@@ -443,12 +471,14 @@
       },
       {
         "recipe_name": "Bruschetta",
+        "photo" :"https://i.ibb.co/b58C66j/ustsqw1468250014.jpg",
         "ingredients": ["baguette", "tomatoes", "garlic", "basil", "olive oil"],
         "cooking_method": "1. Toast baguette slices. 2. Rub garlic on the slices. 3. Top with chopped tomatoes and basil. 4. Drizzle with olive oil. ",
         "rating": 4.5
       },
       {
         "recipe_name": "Panna cotta",
+        "photo" :"https://i.ibb.co/94pV4pS/0jv5gx1661040802.jpg",
         "ingredients": [
           "cream",
           "sugar",
